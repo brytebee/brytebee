@@ -10,5 +10,5 @@
 - ⚡ Fun fact: ...
 
 
-[![Profile badge](https://www.codewars.com/users/brytebee/badges/large)]
+![Profile badge](https://www.codewars.com/users/brytebee/badges/large)
 
