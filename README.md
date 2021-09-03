@@ -10,8 +10,8 @@
 
 ## 
 - 🔭 I’m currently working @ ![](https://img.shields.io/badge/Microverse-blueviolet)
-- 🌱 I’m currently learning ![](https://img.shields.io/badge/Ruby-on:Rails-red)
-- 👯 I’m looking to collaborate on ![](https://img.shields.io/badge/React-js)![](https://img.shields.io/badge/Ruby-on:Rails-red)![](https://img.shields.io/badge/Javascript-js)
+- 🌱 I’m currently learning ![](https://img.shields.io/badge/Ruby-on:Rails-red) ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/js-node-green)
+- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/brytebee/) [WhatsApp](https://wa.me/2347066324306)
 - 💬 ![](https://img.shields.io/badge/Email-Gmail-red) brytebee@gmail.com
 
 ## 
