@@ -4,6 +4,9 @@
 ## 
 ![Profile badge](https://www.codewars.com/users/brytebee/badges/large)
 
+## 👱 Visitors Count
+<img src="https://profile-counter.glitch.me/Anny85-code/count.svg" />
+
 ## 
 ## 🥇 Stack
 ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/js-node-green) ![](https://img.shields.io/badge/HTML5-SemanticTAGS-orange) ![](https://img.shields.io/badge/CSS-CSS3-blue) ![](https://img.shields.io/badge/Ruby-Rail-red) ![](https://img.shields.io/badge/HTML-haml-yellow) ![](https://img.shields.io/badge/git-Git-brightgreen) ![](https://img.shields.io/badge/Git-GitBash-green)
