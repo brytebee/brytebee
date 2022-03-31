@@ -1,7 +1,13 @@
-## 
-### Hi there 👋 I'm Bright
+##
+
+### Hi there <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="40" height="40"/>, I'm Bright.
 
 ## 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popins&duration=4700&color=E8A44FED&lines=Over+2+years+of+active+experience.;I+build+edge+cutting+business+logic.;Always+happy+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://git.io/typing-svg)
+
+##
+
 ![Profile badge](https://www.codewars.com/users/brytebee/badges/large)
 
 ## 👱 Visitors Count
