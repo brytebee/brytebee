@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 ##
 
 ### Hi there <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="40" height="40"/>, I'm Bright.
@@ -34,7 +35,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=brytebee&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 ## 
-Currently studying as an international programmer in ![](https://img.shields.io/badge/Microverse-blueviolet) [Microverse](https://www.microverse.org/?grsf=fds6ce)
+Graduate of [Microverse](https://www.microverse.org/?grsf=fds6ce)
 
 ## 
 🤝 Thank you! 🤝
