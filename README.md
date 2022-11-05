@@ -16,13 +16,16 @@
 
 ## 
 ## 🥇 Stack
+- Proficient with Ruby on Rails (ROR API & React)
+- Learning MERN
+
+## 
+## 🥇 Languages and Tools
 ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/js-node-green) ![](https://img.shields.io/badge/HTML5-SemanticTAGS-orange) ![](https://img.shields.io/badge/CSS-CSS3-blue) ![](https://img.shields.io/badge/Ruby-Rail-red) ![](https://img.shields.io/badge/HTML-haml-yellow) ![](https://img.shields.io/badge/git-Git-brightgreen) ![](https://img.shields.io/badge/Git-GitBash-green)
 
 ## 
-- 🔭 I’m currently a student @ ![](https://img.shields.io/badge/Microverse-blueviolet)[Microverse](https://www.microverse.org/?grsf=fds6ce) an online coding school.
-- 🌱 I’m currently learning ![](https://img.shields.io/badge/Ruby-on:Rails-red) ![](https://img.shields.io/badge/JS-React-brightgreen) ![](https://img.shields.io/badge/js-node-green).
-- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/brytebee/) [WhatsApp](https://wa.me/2347066324306).
-- 💬 ![](https://img.shields.io/badge/Email-Gmail-red) brytebee@gmail.com.
+
+👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/brytebee/) [WhatsApp](https://wa.me/2347066324306).
 
 ## 
 ## Stats 
