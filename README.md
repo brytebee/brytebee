@@ -16,7 +16,7 @@
 
 ## 
 ## 🥇 Stack
-- Proficient with Ruby on Rails (ROR API & React)
+- Proficient with Ruby on Rails (ROR API & React) [View Certifications](https://drive.google.com/drive/folders/1YTzyAB8O0XnXbpom8UfLAPCVqY9zp5Ly?usp=sharing)
 - Learning MERN
 
 ## 
