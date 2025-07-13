@@ -5,7 +5,7 @@
 
 ## 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popins&duration=4700&color=E8A44FED&lines=Over+8+years+of+active+experience.;I+build+edge+cutting+business+logic.;Always+happy+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popins&duration=4700&color=E8A44FED&lines=Over+6+years+of+active+experience.;I+build+edge+cutting+business+logic.;Always+happy+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://git.io/typing-svg)
 
 ##
 
