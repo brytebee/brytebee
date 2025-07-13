@@ -1,0 +1,38 @@
+name: Update Experience Years
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # Runs monthly on the 1st at midnight
+  workflow_dispatch:     # Allows manual trigger from GitHub UI
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Update experience years
+        run: |
+          # Set your start year here
+          START_YEAR=2017
+          CURRENT_YEAR=$(date +%Y)
+          YEARS=$((CURRENT_YEAR - START_YEAR))
+          
+          # Update the README.md file
+          sed -i "s/Over+[0-9]\++years/Over+${YEARS}+years/g" README.md
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔄 Auto-update experience years"
+            git push
+          fi
