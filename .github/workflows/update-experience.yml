@@ -1,7 +1,7 @@
 name: Update Experience Years
 on:
   schedule:
-    - cron: '0 0 1 * *'  # Runs monthly on the 1st at midnight
+    - cron: '0 0 1 1 *'  # Runs January 1st at midnight UTC every year
   workflow_dispatch:     # Allows manual trigger from GitHub UI
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
       - name: Update experience years
         run: |
           # Set your start year here
-          START_YEAR=2017
+          START_YEAR=2019
           CURRENT_YEAR=$(date +%Y)
           YEARS=$((CURRENT_YEAR - START_YEAR))
           
@@ -33,6 +33,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🔄 Auto-update experience years"
+            git commit -m "🎉 New Year! Updated experience years to ${YEARS}"
             git push
           fi
